@@ -14,7 +14,8 @@ Aplicação web responsiva para demonstrar o controle de alunos, treinos e prese
 - Criação de treinos e chamada com marcação de presença.
 - Resumo mensal e exportação CSV.
 - Interface adaptada para celular, com suporte a uso offline após o primeiro carregamento.
-- Dados de exemplo restauráveis para repetir o teste.
+- Dados de exemplo fictícios e restauráveis para repetir o teste.
+- A frequência média considera apenas treinos já realizados.
 
 ## Limites do protótipo
 
